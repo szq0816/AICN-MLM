@@ -35,5 +35,13 @@ Note: Due to variations in hardware and random initialization,
 the performance of the model may differ when run on different devices or with different random seeds.
 Note that the optimal parameters on our local setup might not be directly applicable to other environments.
 
+# Dataset and pretrained model
+To obtain the dataset and pre-trained model of this project, please use the following link:
+
+https://pan.baidu.com/s/1RNkNm-q9yKZ6KuBxX9JOQw
+
+Extraction code: 8ris.
+And place the dataset in the data directory and the pre-trained model in the models directory.
+
 # Contact
 If you have any questions, please feel free to contact me at: 1911235620@qq.com
